@@ -1,0 +1,9 @@
+@font-face {
+font-family: 'MOCCA';
+src:url('../fonts/MN\ MOCCA\ Bold.ttf');
+
+}
+
+body {
+    font-family: 'Mitr', sans-serif;
+}
